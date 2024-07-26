@@ -1,5 +1,7 @@
-hello deploy these files contain .sh files only
-hello where r u man 
-njzvauvalbva ayaufh
+hello deploy these files contains file lists
+
+
+hello am i updating in dev branch ................
+
 
 
